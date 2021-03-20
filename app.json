@@ -1,0 +1,12 @@
+{
+  "name": "LinkedinTesting",
+  "displayName": "LinkedinTesting",
+  "expo": {
+    "name": "LinkedinTesting",
+    "slug": "LinkedinTesting",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
